@@ -1,5 +1,3 @@
-#include <stdexcept>
-
 template <typename T>
 class Singleton
 {
